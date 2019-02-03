@@ -3,7 +3,9 @@
 ## How to Play
 The game is built in WebGL and developed in part for the GDDC UofT Game Making Deathmatch game jam.
 
-Go to https://tinichu316.github.io/ on a WebGL supported browser and click on the title Long Walk Home (2019).
+It is recommended to download the standalone version at https://tinichu.itch.io/long-walk-home for performance reasons.
+
+Alternatively, go to https://tinichu316.github.io/ on a WebGL supported browser and click on the title Long Walk Home (2019). However, it may run slowly.
 
 ## Theme
 In Long walk home, the goal is to make it home from your friend's late night party. Perhaps along the way you will discover some memories you have made with some close friends as well.
